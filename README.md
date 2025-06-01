@@ -1,2 +1,2 @@
 # Java_Lab2
-Zadania z laboratoriów od szóstego do dziesiątego  
+Zadania z laboratoriów od siódmego do dziesiątego  
